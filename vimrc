@@ -35,6 +35,7 @@ Plugin 'kien/ctrlp.vim'
 Plugin 'tpope/vim-surround'
 Plugin 'vim-scripts/tComment'
 Plugin 'scrooloose/nerdtree'
+Plugin 'valloric/youcompleteme'
 
 call vundle#end()
 filetype plugin indent on
